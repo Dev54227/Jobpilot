@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+dist/
+build/
+generated/
+.DS_Store
+
+# personal data, never commit
+server/data/*.local.json
+logs/
